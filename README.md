@@ -26,7 +26,7 @@ A Spring Boot REST API for managing and serving a media catalog.
 
 Built with Java, Spring Boot, Spring Security, JWT authentication, Docker, and role-based access control.
 
-### AudioPulse
+### Mic Go Brrr
 
 An embedded audio-reactive LED visualizer.
 
