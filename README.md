@@ -1,4 +1,4 @@
-# Abdullah Shahid
+# Abdullah
 
 I build software across product engineering, platform systems, data pipelines, and creative tools.
 
