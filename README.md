@@ -12,32 +12,6 @@ I am a Computer Science student at the University of Toronto with experience in 
 - AI and agentic systems using LangChain, tool-calling workflows, and model orchestration
 - Creative software for photography, image processing, and visual experimentation
 
-## Featured projects
-
-### Fragmento
-
-A production web app for timeslice image generation.
-
-Built with FastAPI, React, Vite, Supabase, and Stripe. Fragmento separates the core rendering engine from product concerns like authentication, billing, project storage, and background render workflows.
-
-### Milo as a Service
-
-A Spring Boot REST API for managing and serving a media catalog.
-
-Built with Java, Spring Boot, Spring Security, JWT authentication, Docker, and role-based access control.
-
-### Mic Go Brrr
-
-An embedded audio-reactive LED visualizer.
-
-Built on an STM32 IoT board using C++, Mbed OS, real-time microphone processing, dBFS calculation, Wi-Fi, and MQTT publishing.
-
-### pytimeslice
-
-A Python image-processing library and CLI for generating timeslice compositions from ordered frame sequences.
-
-Built with Python, NumPy, Pillow, and deterministic rendering workflows.
-
 ## Tech stack
 
 **Languages:** Python, Java, TypeScript, JavaScript, SQL, C#, C  
