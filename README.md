@@ -1,38 +1,17 @@
-# Abdullah
+# abdullah
 
-I build software across product engineering, platform systems, data pipelines, and creative tools.
+i'm a software engineer (sde ii) at nini, building rust services for boreal, a financial os on canadian banking rails. this involves accounting integrations, document ingestion, and the reliability work that keeps it running in production. lately i've been on gia, the ai agent that sits on top of it.
 
-I am a Computer Science student at the University of Toronto with experience in full-stack development, backend systems, cloud infrastructure, data engineering, and AI-powered applications. I like working on systems that connect technical depth with product clarity.
+before nini i worked across a few stacks: platform engineering at ophelia (fastapi, next.js, aws), data engineering at sun life (sql server, glue, athena), and backend work as an intern at xero. i studied computer science at the university of toronto.
 
-## What I work on
+on the side i build small things, mostly for fun. right now that's verba, a voice first editing app i'm using to learn how a real ai system gets built end to end. i also shoot photography.
 
-- Full-stack web apps with React, Next.js, TypeScript, FastAPI, and Spring Boot
-- Backend systems, APIs, authentication, authorization, and service integrations
-- Data engineering pipelines with Python, SQL, AWS S3, Glue, and Athena
-- AI and agentic systems using LangChain, tool-calling workflows, and model orchestration
-- Creative software for photography, image processing, and visual experimentation
+## what i actually work with
 
-## Tech stack
+rust at work, go for verba's backend, python and typescript when the job calls for it. postgres, aws, docker. before this i spent a lot of time in fastapi, spring boot, and data pipelines on glue and athena. i'd rather pick the tool that fits the problem than collect them. 
 
-**Languages:** Python, Java, TypeScript, JavaScript, SQL, C#, C  
-**Frontend:** React, Next.js, Vite, Tailwind CSS  
-**Backend:** FastAPI, Spring Boot, Django, REST APIs  
-**Cloud and data:** AWS, S3, Glue, Athena, DynamoDB, SQS, SQL Server  
-**Tools:** Docker, Git, Linux, Playwright, Jest, New Relic, Sumo Logic  
-**AI:** LangChain, tool-calling agents, retrieval workflows, model orchestration  
+side note: my opinion on languages and frameworks now is that it doesn't really matter (imo it never mattered, but it matters even less now) - let's wake up and stop pretending that engineers aren't maximizing the use of AI to build systems - what matters more than ever is the foundational engineering knowledge, systems thinking, experience and exposure.
 
-## Current interests
+## links
 
-I am currently interested in:
-
-- Platform engineering
-- AI infrastructure
-- Developer tools
-- Creative coding
-- Image processing
-- Product-focused software engineering
-
-## Links
-
-- Portfolio: https://nxabdullah.dev
-- LinkedIn: https://linkedin.com/in/nxabdullah
+website: https://nxabdullah.dev
